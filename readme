@@ -13,3 +13,5 @@ lal
 /home cuman buat perkenalan aja lalu nanti ada tombol buat ke /review 
 
 lalu /dosen itu bagian API/data.json buat liat data2 apa aja sih yang ada di js yg ku bikin ini sekian dari ku thank you boi
+
+untuk ingin add dosen baru pakai postman harus isi name, course, dan ratingnya soalnya ada validation
