@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Zahudi",
+    "course": "Skintific Computing",
+    "rating": 2
+  },
+  {
+    "id": 2,
+    "name": "Minor",
+    "course": "Calc ciken",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Djulia",
+    "course": "Bahasa Spanyol",
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "name": "Alvent2",
+    "course": "Algo and Algo",
+    "rating": 3
+  },
+  {
+    "id": 5,
+    "name": "Abe",
+    "course": "Front End Development",
+    "rating": 5
+  }
+]

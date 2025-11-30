@@ -1,0 +1,15 @@
+baca aku
+
+jadi gini abg abgan er en di
+ini adalah web/backend untuk rating dosen subin
+
+http://localhost:3000
+
+ada /home, /review, dan /dosen(ini bagian json/datanya)
+
+review dari Namanya untuk ngerating sebenarnya jadi misalnya mu rating dosen itu 5 ko input 1 nanti jadi 3 rating dosennya
+lal
+
+/home cuman buat perkenalan aja lalu nanti ada tombol buat ke /review 
+
+lalu /dosen itu bagian API/data.json buat liat data2 apa aja sih yang ada di js yg ku bikin ini sekian dari ku thank you boi

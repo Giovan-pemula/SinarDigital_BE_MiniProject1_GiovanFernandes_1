@@ -1,0 +1,1 @@
+export{Dosen as Dosen} from "./dosenController.js";
